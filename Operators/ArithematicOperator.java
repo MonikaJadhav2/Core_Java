@@ -11,3 +11,4 @@ public class ArithematicOperator {
 	System.out.println("Modulus:" + (a%b));
 }
 }
+
