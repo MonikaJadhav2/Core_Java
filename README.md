@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Monika 👋</h1>
+<h1 align="center">Hi, I'm Monika Jadhav 👋</h1>
 
 ## 📊 GitHub Stats  
 ![Monika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonikaJadhav2&show_icons=true&theme=tokyonight)
