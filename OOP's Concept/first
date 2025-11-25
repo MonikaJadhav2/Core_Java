@@ -1,2 +1,38 @@
 OOP (Object-Oriented Programming) is a programming paradigm based on the concept of objects and classes.
 Java is a pure object-oriented language (except primitive types) and implements all major OOP features.
+
+1. Class
+
+Blueprint/template that contains variables (data) and methods (behavior).
+
+2. Object
+
+Instance of a class. Real-world entity created from a class.
+
+🎯 4 Main Pillars of OOP
+1️⃣ Encapsulation → Data Hiding
+
+Wrap data + methods in a single unit (class).
+
+Use private variables + getter/setter.
+Benefit: Security and control.
+
+2️⃣ Inheritance → Reusability
+
+One class inherits another class using extends.
+
+Types: Single, Multilevel, Hierarchical.
+Benefit: Code reuse.
+
+3️⃣ Polymorphism → Many Forms
+
+✔ Method Overloading – compile time
+✔ Method Overriding – runtime
+Benefit: Flexibility and dynamic behavior.
+
+4️⃣ Abstraction → Hiding Details
+
+Show essential features, hide background code.
+
+Achieved through abstract class and interface.
+Benefit: Cleaner and simpler code.
