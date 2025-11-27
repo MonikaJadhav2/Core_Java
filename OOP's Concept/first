@@ -8,6 +8,7 @@ Blueprint/template that contains variables (data) and methods (behavior).
 2. Object
 
 Instance of a class. Real-world entity created from a class.
+We can create n number of object of a class.
 
 🎯 4 Main Pillars of OOP
 1️⃣ Encapsulation → Data Hiding
