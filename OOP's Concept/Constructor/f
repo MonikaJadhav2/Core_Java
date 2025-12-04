@@ -1,0 +1,6 @@
+Constructor name is same as class name.
+Constructor get called automatically when object is created.
+Constructor dont have return type not even void .
+There is a default construtor of class which is created by a compiler/system.
+Constructor is used to initialize the object values.
+Constructor can be overloaded.
