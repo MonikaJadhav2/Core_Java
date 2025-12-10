@@ -1,1 +1,23 @@
+Inheritance is a feature in Java where one class acquires the properties and methods of another class.
 
+It is used to achieve code reusability and polymorphism.
+
+The class that is inherited from is called the superclass.
+
+The class that inherits is called the subclass.
+
+The keyword extends is used to implement inheritance.
+
+Java supports single, multilevel, and hierarchical inheritance.
+
+Java does not support multiple inheritance using classes.
+
+Multiple inheritance is supported through interfaces.
+
+Inheritance creates an IS-A relationship between classes.
+
+Method overriding is possible because of inheritance.
+
+Inheritance reduces code duplication and improves maintainability.
+
+Improper inheritance can lead to tight coupling.
