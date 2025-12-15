@@ -20,4 +20,4 @@ Method overriding is possible because of inheritance.
 
 Inheritance reduces code duplication and improves maintainability.
 
-Improper inheritance can lead to tight coupling.
+Improper inheritance can lead to tight coupling....
