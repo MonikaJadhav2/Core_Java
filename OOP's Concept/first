@@ -18,7 +18,7 @@ Wrap data + methods in a single unit (class).
 
 Use private variables + getter/setter.
 Benefit: Security and control.
-
+....
 2️⃣ Inheritance → Reusability
 
 One class inherits another class using extends.
