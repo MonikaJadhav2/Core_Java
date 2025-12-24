@@ -1,7 +1,7 @@
 package com.finaltopic;
 
 
-import accesss.AccessDemo;
+import com.accesss.AccessDemo;
 
 public class TestDifferentPackage {
 
@@ -20,4 +20,5 @@ public class TestDifferentPackage {
         // obj.privateMethod(); ❌
     }
 }
+
 
