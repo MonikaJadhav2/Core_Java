@@ -9,16 +9,17 @@ public class TestDifferentPackage {
 
         AccessDemo obj = new AccessDemo();   // ✔ public constructor
 
-        System.out.println(obj.a);  // ✔ public
-        // System.out.println(obj.b); ❌ protected
-        // System.out.println(obj.c); ❌ default
-        // System.out.println(obj.d); ❌ private
+        System.out.println(obj.a);    // public
+        // System.out.println(obj.b); // protected
+        // System.out.println(obj.c);  //default
+        // System.out.println(obj.d);  // private
 
-        obj.publicMethod();         // ✔
-        // obj.protectedMethod(); ❌
-        // obj.defaultMethod(); ❌
-        // obj.privateMethod(); ❌
+        obj.publicMethod();         // accessible
+        // obj.protectedMethod(); // not
+        // obj.defaultMethod();  // not
+        // obj.privateMethod(); // not
     }
 }
+
 
 
