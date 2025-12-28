@@ -1,1 +1,44 @@
-...
+1)What is static
+static makes a member belong to the class instead of objects
+Only one copy exists in memory
+Shared by all objects of the class
+
+2)static variable
+Called class variable
+Declared at class level
+Created when class is loaded
+Same value shared across all objects
+Best used for constants and common data
+
+3)static method
+Belongs to class, not object
+Called using class name
+Can access only static members directly
+main() is static so JVM can call it
+
+4)static block
+Executes once when class is loaded
+Runs before main()
+Used for one-time initialization
+
+5)non-static block
+Executes every time an object is created
+Runs before constructor
+Used for common object initialization
+
+6)constructor and static
+Constructor is always non-static
+Static variables can be modified inside constructor using class name
+Change affects all objects
+
+7)this keyword and static
+this refers to current object
+Cannot be used with static members
+Static members should be accessed using class name
+
+8)static inner class
+Belongs to outer class, not its object
+Can be created without outer class object
+Can have static and non-static members
+
+ non-static is object-level
