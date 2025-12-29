@@ -1,0 +1,10 @@
+1)String is an sequence of characters / collection of characters
+2)It is an built in class which is present in java.lang package.
+3)It is an Non-Primitive datatype because it contains built-in methods.
+
+String object creation:
+  1)by using string literal:
+      String name = "Monika"
+
+  2) By using object creation(new keyword):
+      String str = new String("Monika");
