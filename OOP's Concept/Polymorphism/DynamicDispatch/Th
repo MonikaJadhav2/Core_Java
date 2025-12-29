@@ -1,0 +1,3 @@
+Dynamic method dispatch is the mechanism by which Java decides at runtime which overridden method to execute, based on the object type, not the reference type.
+
+It is how runtime polymorphism is implemented internally.
