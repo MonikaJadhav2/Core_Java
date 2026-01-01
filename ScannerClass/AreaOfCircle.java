@@ -6,7 +6,7 @@ public class AreaOfCircle {
 	
 	void area(float r) {
 		
-		float a = r * r;
+		float a = 3.14 * r * r;
 		System.out.println("Area of circle= " +a);
 	}
 	
@@ -22,3 +22,4 @@ public class AreaOfCircle {
 	}
 
 }
+
