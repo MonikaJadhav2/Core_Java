@@ -16,5 +16,6 @@ public class Laptop {
 		// Printing values
 		System.out.println("Brand: " + l1.brand);
 		System.out.println("RAM: " + l1.ram + " GB");
-	}
+	} 
 }
+
