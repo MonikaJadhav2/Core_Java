@@ -2,7 +2,7 @@ package com.tka;
 
 import java.util.Scanner;
 
-public class ArrayIsSorted {
+public class SortedArray {
              public void sorted(int arr[]) {
             	 
             	 boolean isSorted = true;
