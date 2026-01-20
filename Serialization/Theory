@@ -1,1 +1,4 @@
-..
+..steps: 
+java provides classes to perform serilization 
+serialization--> FileOutputStream, ObjectOutputStream
+Deserialization --> FileInputStream, ObjectInputStream
