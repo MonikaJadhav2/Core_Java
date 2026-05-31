@@ -1,5 +1,5 @@
 package com.demo;
-
+ 
 public class WrapperExample {
 	    public static void main(String[] args) {
 	        int a = 10;               // primitive type
